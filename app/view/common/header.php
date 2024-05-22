@@ -30,11 +30,7 @@
 
             <li>
                 <div class="logo">
-<<<<<<< HEAD
-                    <a href="accueil.php"><img src="public/images/logo.png"></a>
-=======
-                    <a href="accueil.php"><img src="public\images\logo_mayel_blanc.png"></a>
->>>>>>> 1d13509a6a169a83091913f7d91492b732b358eb
+                    <a href="accueil.php"><img src="https://github.com/j3eyy/B2_MAYEL.git"></a>
                 </div>
             </li>
 
